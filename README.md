@@ -7,9 +7,9 @@ This project includes two written documents:
 
 # Pre Install
 npm install
-npm install sweetalert --save
+npm install sweetalert --save <br />
 npm install react-router-dom
 
 # To Run
-cd compareit-frontend-react
+cd compareit-frontend-react <br />
 npm start
