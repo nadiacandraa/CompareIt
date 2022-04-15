@@ -1,7 +1,15 @@
-# CompareIt
-A web app that allow users to compare product on sale
-from various brands by searching a certain product
+# CompareIt FrontEnd Code
+Original copy of this code can be found on our [project repository](https://github.com/kellygabriela/CompareIt)
 
-##front end
-this repository contains front end design for the web app
-utilizing React js
+This project includes two written documents:
+1. [Proposal](https://docs.google.com/document/d/1feIqY2bACmjkvJJWExErlJ2TChRTRmJkHY1PEYQuzqI/edit?usp=sharing)
+2. [Final Report](https://docs.google.com/document/d/1PIOSGN-QeenPqAsbNlneOEhW4NpyYnDs/edit?usp=sharing&ouid=115641619974306728536&rtpof=true&sd=true)
+
+#Pre Install
+npm install
+npm install sweetalert --save
+npm install react-router-dom
+
+#To Run
+cd compareit-frontend-react
+npm start
